@@ -1,0 +1,14 @@
+{
+  "question1": {
+    "Name": "Variables",
+    "ID": 1,
+    "Question": "What is the output of: print(\"Hello, my name is Cody\")?",
+    "CorrectAnswer": "Hello, my name is Cody"
+  },
+  "question2": {
+    "Name": "Complete it",
+    "ID": 2,
+    "Question": "Fill in the blank: ____(„Cody is fun!“)",
+    "CorrectAnswer": "print"
+  }
+}
